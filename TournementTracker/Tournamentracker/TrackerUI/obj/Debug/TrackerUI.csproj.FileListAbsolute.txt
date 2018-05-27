@@ -1,0 +1,11 @@
+C:\Users\denni\source\repos\TournementTracker\Tournamentracker\TrackerUI\bin\Debug\TrackerUI.exe.config
+C:\Users\denni\source\repos\TournementTracker\Tournamentracker\TrackerUI\bin\Debug\TrackerUI.exe
+C:\Users\denni\source\repos\TournementTracker\Tournamentracker\TrackerUI\bin\Debug\TrackerUI.pdb
+C:\Users\denni\source\repos\TournementTracker\Tournamentracker\TrackerUI\obj\Debug\TrackerUI.csprojAssemblyReference.cache
+C:\Users\denni\source\repos\TournementTracker\Tournamentracker\TrackerUI\obj\Debug\TrackerUI.Properties.Resources.resources
+C:\Users\denni\source\repos\TournementTracker\Tournamentracker\TrackerUI\obj\Debug\TrackerUI.TournamentVieuwerForm.resources
+C:\Users\denni\source\repos\TournementTracker\Tournamentracker\TrackerUI\obj\Debug\TrackerUI.csproj.GenerateResource.cache
+C:\Users\denni\source\repos\TournementTracker\Tournamentracker\TrackerUI\obj\Debug\TrackerUI.csproj.CoreCompileInputs.cache
+C:\Users\denni\source\repos\TournementTracker\Tournamentracker\TrackerUI\obj\Debug\TrackerUI.exe
+C:\Users\denni\source\repos\TournementTracker\Tournamentracker\TrackerUI\obj\Debug\TrackerUI.pdb
+C:\Users\denni\source\repos\TournementTracker\Tournamentracker\TrackerUI\obj\Debug\TrackerUI.CreateTournamentForm.resources
